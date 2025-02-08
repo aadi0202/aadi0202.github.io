@@ -14,7 +14,9 @@ The landing page includes:
 
 This project is open source and available under the MIT License.
 
-## Contact
+## Connect With Me 🌐
 
-- GitHub: [@aadi0202](https://github.com/aadi0202)
-- Website: [aadityapunatar.me](https://aadityapunatar.me)
+- 💼 LinkedIn: [Aaditya Punatar](https://www.linkedin.com/in/aaditya-punatar/)
+- 🐱 GitHub: [@aadi0202](https://github.com/aadi0202)
+- 📧 Email: aadipunatar@gmail.com
+- 🌐 Website: [aadityapunatar.me](https://aadityapunatar.me)
